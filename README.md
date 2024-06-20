@@ -32,6 +32,12 @@
 2023 Г. ЦИФРОВИЗАЦИЯ И РАЗРАБОТКА ИНФОРМАЦИОННЫХ СИСТЕМ, 
 - *Специалист по информационным системам*
 
+## Works
+
+ - [Titanik](https://github.com/DataGnomik/Titanik)
+ - [Regression an Abalone](https://github.com/DataGnomik/Regression_an_Abalone)
+ - [House prices](https://github.com/DataGnomik/House_prices)
+
 
 <!--
 **DataGnomik/DataGnomik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
