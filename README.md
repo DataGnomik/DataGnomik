@@ -22,7 +22,7 @@
 - ***Version Control***: Git, GitHub
 
 
-## Additional education
+## 🧠 Additional education
 
 В ходе обучения в ВУЗе, прошёл курсы повышения квалификации
 
@@ -32,7 +32,7 @@
 2023 Г. ЦИФРОВИЗАЦИЯ И РАЗРАБОТКА ИНФОРМАЦИОННЫХ СИСТЕМ, 
 - *Специалист по информационным системам*
 
-## Works
+## ✨ Works
 
  - [Titanik](https://github.com/DataGnomik/Titanik)
  - [Regression an Abalone](https://github.com/DataGnomik/Regression_an_Abalone)
