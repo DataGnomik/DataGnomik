@@ -34,11 +34,18 @@
 
 ## ✨ Works
 
+#### Data Science
+
  - [Titanik](https://github.com/DataGnomik/Titanik)
  - [Regression an Abalone](https://github.com/DataGnomik/Regression_an_Abalone)
  - [House prices](https://github.com/DataGnomik/House_prices)
 
+#### Machine learning
+ - [Optimizers](https://github.com/DataGnomik/optimizer_SGD)
+ - [Cifar classification]()
+ - [Vision transformer]()
 
+ 
 <!--
 **DataGnomik/DataGnomik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
