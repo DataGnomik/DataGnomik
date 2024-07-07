@@ -42,8 +42,8 @@
 
 #### Machine learning
  - [Optimizers](https://github.com/DataGnomik/optimizer_SGD)
- - [Cifar classification]()
- - [Vision transformer]()
+ - [Cifar classification](https://github.com/DataGnomik/Cifar-classification)
+ - [Vision transformer (Visualization of Attention Maps)](https://github.com/DataGnomik/Visualization-of-Attention-Maps)
 
  
 <!--
