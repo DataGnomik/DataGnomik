@@ -5,6 +5,8 @@
 ## 🚀 About Me
 Я Python разработчик в области Data Science.
 
+[Resume](https://github.com/DataGnomik/Resume/blob/main/Resume%20Goltsov%20MN.pdf)
+
 ***Обучаюсь в Московском Энергетическом Институте (НИУ "МЭИ")***
 
 *Сентябрь 2019 - Июль 2023*  
@@ -44,6 +46,9 @@
  - [Optimizers](https://github.com/DataGnomik/optimizer_SGD)
  - [Cifar classification](https://github.com/DataGnomik/Cifar-classification)
  - [Vision transformer (Visualization of Attention Maps)](https://github.com/DataGnomik/Visualization-of-Attention-Maps)
+
+#### Other projects
+ - [Math Statistics](https://github.com/DataGnomik/math-statistics/tree/main)
 
  
 <!--
