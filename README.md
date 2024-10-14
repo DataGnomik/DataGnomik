@@ -41,11 +41,14 @@
  - [Titanik](https://github.com/DataGnomik/Titanik)
  - [Regression an Abalone](https://github.com/DataGnomik/Regression_an_Abalone)
  - [House prices](https://github.com/DataGnomik/House_prices)
+ - [Methods of machine learning and big data analysis](https://github.com/DataGnomik/Methods-of-machine-learning-and-big-data-analysis)
 
 #### Machine learning
  - [Optimizers](https://github.com/DataGnomik/optimizer_SGD)
  - [Cifar classification](https://github.com/DataGnomik/Cifar-classification)
  - [Vision transformer (Visualization of Attention Maps)](https://github.com/DataGnomik/Visualization-of-Attention-Maps)
+ - [Word Embeddings](https://github.com/DataGnomik/Word_Embeddings)
+
 
 #### Other projects
  - [Math Statistics](https://github.com/DataGnomik/math-statistics/tree/main)
