@@ -48,6 +48,7 @@
  - [Cifar classification](https://github.com/DataGnomik/Cifar-classification)
  - [Vision transformer (Visualization of Attention Maps)](https://github.com/DataGnomik/Visualization-of-Attention-Maps)
  - [Word Embeddings](https://github.com/DataGnomik/Word_Embeddings)
+ - [NER_RNN_LSTM](https://github.com/DataGnomik/NER_rnn_lstm)
 
 
 #### Other projects
